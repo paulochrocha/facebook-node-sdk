@@ -1,0 +1,23 @@
+{
+  "name": "facebook-node-sdk",
+  "version": "1.0.0",
+  "description": "Facebook API Implementation in Node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulochrocha/facebook-node-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulochrocha/facebook-node-sdk/issues"
+  },
+  "homepage": "https://github.com/paulochrocha/facebook-node-sdk#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "fb": "^1.1.1"
+  }
+}
